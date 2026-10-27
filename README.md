@@ -126,6 +126,7 @@
 | [0139-word-break](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0443-string-compression) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Trie
 |  |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -196,4 +198,12 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amit24282223/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
